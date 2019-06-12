@@ -9,4 +9,7 @@ How is the staging area different from the working directory and the repository?
     The staging area is unique because it offers a middle spot between the local and git locations. It is valuable
     because it offers a spot to differentiate which files should be include in a commit.
 
-    
+How can you use the staging area to make sure you have one commit per logical change?
+
+    It is always a good idea to check the difference between staging and the last commit to assure that what you're
+    committing is actually what you want to commit.
