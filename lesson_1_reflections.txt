@@ -48,4 +48,4 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
     I'd like to implement on a personal project.
 
-###first commit
+###first commit!
