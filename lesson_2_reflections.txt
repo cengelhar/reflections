@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    When you initialize a repository, it generates a .git, which is used to track the files in that repository
+
+    This is important so you can track the changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    The staging area is unique because it offers a middle spot between the local and git locations. It is valuable
+    because it offers a spot to differentiate which files should be include in a commit.
+
+    
