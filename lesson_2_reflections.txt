@@ -13,3 +13,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
     It is always a good idea to check the difference between staging and the last commit to assure that what you're
     committing is actually what you want to commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    It would be helpful if you want to make a separate version of your master branch or to experiment with large-scale changes
