@@ -1,0 +1,51 @@
+    I often have issues with typos
+
+    For collaboration.
+
+    For quick turnaround for bugs discovered by customers.
+
+    To know which person on a team made the last commit.
+
+    To tell the story of the project build.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    Well, it would make me more confident.
+
+    It would also give me the ability to learn from my mistakes.
+
+    It would allow me to test previous versions of the code.
+
+    It would save me time by reducing the file saving process, as well as make it more organized.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
+vs having versions automatically saved, like Google Docs does?
+
+    Pros:
+        You're able to subjectively decide on what 'meaningful change' is as you write your code.
+
+    Cons:
+        It leaves a lot of decision-making up to the programmer, which could be mental bandwidth used to programming.
+        It's possible that too much or too little is committed at once, both with their disadvantages.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+ while others, like Google Docs, treat each file separately?
+
+    Most programs have multiple files that work together to produce the output. They are so closely connected that it's important
+    track changes across the entire system.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can gain insight by a) run a log (and add --stat) to view all the changes and what happened.
+
+    From there, you can compare to commits using the git diff call
+
+How might using version control make you more confident to make changes that could break something?
+
+    This assures me that if I make a change that could break something that I could revery quickly without causing much harm.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I'd like to implement on a personal project.
+
+###first commit
