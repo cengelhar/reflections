@@ -20,4 +20,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 
-    Diagrams help visualize the branch structure by making it clear where I am and what I have access to/repurcussions of committing.
+    Diagrams help visualize the branch structure by making it clear where I am and what I have access to/repercussions of committing.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    The result of merging two branches is that, assuming there are not conflicts, commits will be combined from the entirety of both branch
+    histories into the "tip" of whatever branch is currently checked out
