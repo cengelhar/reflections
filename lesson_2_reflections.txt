@@ -26,3 +26,11 @@ What is the result of merging two branches together? Why do we represent it in t
 
     The result of merging two branches is that, assuming there are not conflicts, commits will be combined from the entirety of both branch
     histories into the "tip" of whatever branch is currently checked out
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Pros:
+        It definitely makes things more efficient and allows for collaboration to be quick with less oversights
+
+    Cons:
+        It opens the opportunity for commit conflicts and there is a chance the wrong commits could be merged.
