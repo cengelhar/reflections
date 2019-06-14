@@ -12,3 +12,9 @@ Why might you want to always pull changes manually rather than having Git automa
     - Especially when collaborating with others, it is nice to be able to have a local, fully running repo that can be tested and
     tweaked without needing to clutter or confuse the Github repo.
     - Also, again, if there were multiple ssh identities potentially pushing to the repo, there would be serious code conflicts.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+    Fork - cloning someone else's repo within the Github platform exclusively
+    Clone - copying a repo to a remote location or between remote locations
+    Branches - separate commit paths within a repository
