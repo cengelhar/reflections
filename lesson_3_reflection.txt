@@ -1,9 +1,14 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
   This would be helpful for a number of reasons:
-  
+
     - If you are working from more than one computer
     - If other people are contributing to the project
     - If you'd like to create an open-source project
     - To create a redundant copy of your project in case your local machine breaks, etc.
-  
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+    - Especially when collaborating with others, it is nice to be able to have a local, fully running repo that can be tested and
+    tweaked without needing to clutter or confuse the Github repo.
+    - Also, again, if there were multiple ssh identities potentially pushing to the repo, there would be serious code conflicts.
