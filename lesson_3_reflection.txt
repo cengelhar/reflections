@@ -24,4 +24,9 @@ What is the benefit of having a copy of the last known state of the remote store
     This is valuable because it makes it possible to:
         a) Know if the remote branch has changed since the last pull/clones
         b) Run a diff to understand exactly what has changed and allow to resolving both sets of changes before pushing
-        
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+    If I wasn't using Github for collaborating, I would probably use some sort of text editor, or a shared file on Dropbox.
+    That would be easier in some ways because it would remove all the complexities of git terminal commans, but it would also
+    require some inconvenient coordination of when a file is checked out.
