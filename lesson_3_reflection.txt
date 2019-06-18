@@ -30,3 +30,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
     If I wasn't using Github for collaborating, I would probably use some sort of text editor, or a shared file on Dropbox.
     That would be easier in some ways because it would remove all the complexities of git terminal commans, but it would also
     require some inconvenient coordination of when a file is checked out.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+    Making changes in a separate branch is useful when the change needs to be reviewed by other collaborators for whatever reasons
+    (e.g. they are working on the same code, it's a large change that needs testing, there is an approval process, etc.)
